@@ -8,13 +8,13 @@
   Bootcamp de Desarrollo Web Full Stack
 </h3>
 <!-- Objetivos -->
-<h2>OBJETIVOS</h2>
+<h2 align="center">OBJETIVOS</h2>
 <p align="justify">
   Desarrollar habilidades de comunicación asertiva, resolución de conflictos, atención al detalle, manejo del estrés y trabajo en equipo para mejorar la eficacia personal y profesional.
 </p>
 
 <!-- Modulos a estudiar -->
-<h2>MÓDULOS</h2>
+<h2 align="center">MÓDULOS</h2>
 
 | Módulo                                | Temas                                                                                                                                                               |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
